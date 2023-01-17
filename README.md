@@ -13,7 +13,7 @@ I love cats and dogs! I have a dog with 50% German Shepherd and 50% Belgian Mali
 ### :green_circle: How to reach me
 - Email: ScottCTD@outlook.com
 - Discord: ScottCTD#8600
-- WeChat: C18660785723
+- WeChat: scottctd
 - Telegram: [@scottctd](https://t.me/scottctd)
 
 ### :star2: I have some experience with
