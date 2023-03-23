@@ -1,4 +1,4 @@
-### :cat: Hi there 👋 I'm Scott!
+### Hi there 👋 I'm Scott!
 
 I'm Scott, a current undergraduate computer science specialist student at the University of Toronto.
 
@@ -21,14 +21,9 @@ I love cats and dogs! I have a dog with 50% German Shepherd and 50% Belgian Mali
 - Python
 - C/C++
 - SQL
-- Assembly (MIPS)
-- A little bit Rust
-- A little bit HTML CSS JS
-- A little OpenGL
 
 ### :arrow_up: I'm active on
 - [bilibili](https://space.bilibili.com/175792933?spm_id_from=333.1007.0.0)
-- WIP Personal Website
 - GitHub
 
 ### :globe_with_meridians: I can speak
