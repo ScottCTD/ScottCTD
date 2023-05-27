@@ -15,7 +15,7 @@ I'm Scott, a current undergraduate computer science specialist student at the Un
 - SQL
 
 ### :arrow_up: I'm active on
-- [bilibili](https://space.bilibili.com/175792933?spm_id_from=333.1007.0.0)
+- [Bilibili](https://space.bilibili.com/175792933?spm_id_from=333.1007.0.0)
 - GitHub
 
 ### :globe_with_meridians: I can speak
