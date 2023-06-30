@@ -4,7 +4,7 @@ I'm Scott, a current undergraduate computer science specialist student at the Un
 
 ### :green_circle: How to reach me
 - Email: ScottCTD@outlook.com
-- Discord: ScottCTD#8600
+- Discord: scottctd
 - WeChat: scottctd
 - Telegram: [@scottctd](https://t.me/scottctd)
 
