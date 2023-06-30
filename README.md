@@ -10,10 +10,10 @@ I'm Scott, a current undergraduate computer science specialist student at the Un
 
 ### :star2: I have some experience with
 
-- Programming Technologies: Python, Java, C/C++, SQL, ...
-- Design and Analysis of data structures and algorithms
-- Basic software engineering techniques (design, testing, ...)
-- Machine learning
+- programming technologies: Python, Java, C/C++, SQL, ...
+- design and analysis of data structures and algorithms
+- basic software engineering techniques (design, testing, ...)
+- machine learning and traditional AI techinques
 
 ### :arrow_up: I'm active on
 - [Bilibili](https://space.bilibili.com/175792933?spm_id_from=333.1007.0.0)
