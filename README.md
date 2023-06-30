@@ -9,10 +9,11 @@ I'm Scott, a current undergraduate computer science specialist student at the Un
 - Telegram: [@scottctd](https://t.me/scottctd)
 
 ### :star2: I have some experience with
-- Java
-- Python
-- C/C++
-- SQL
+
+- Programming Technologies: Python, Java, C/C++, SQL, ...
+- Design and Analysis of data structures and algorithms
+- Basic software engineering techniques (design, testing, ...)
+- Machine learning
 
 ### :arrow_up: I'm active on
 - [Bilibili](https://space.bilibili.com/175792933?spm_id_from=333.1007.0.0)
